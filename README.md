@@ -1,0 +1,2 @@
+# calc_nextDate_pwdUpdate
+Reactの練習のために作成。日付と有効期間を入力して次回更新日の平日を出力するSPA（祝日対応）
